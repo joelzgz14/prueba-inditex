@@ -3,6 +3,7 @@ Demo técnica desarrollada como parte del proceso de selección para Inditex. Es
 
 
 Arquitectura
+
 Aplicación basada en arquitectura hexagonal (ports & adapters)
 
 -Separación clara entre capas:
